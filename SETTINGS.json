@@ -1,0 +1,9 @@
+{
+  "train_data_path": "/kaggle/input/leash-BELKA/train.parquet",
+  "test_data_path": "/kaggle/input/leash-BELKA/test.parquet",
+  "train_data_clean_path": "train_enc.parquet",
+  "test_data_clean_path": "test_enc.parquet",
+  "model_dir": "/kaggle/model_weights",
+  "final_model_path": "model.h5",
+  "output_path": "submission.csv"
+}
